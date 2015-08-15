@@ -1,0 +1,96 @@
+body {
+	font-family: sans-serif;
+	color: #333;
+}
+
+header {
+	text-align: center;
+	background: rgba(51,153,136,0.8);
+}
+
+a {
+	color: #339988;
+	text-decoration: none;
+}
+
+h1 {
+	color: #ffffff;
+	font-size: 60px;
+}
+
+a:hover {
+	color: #000;
+}
+
+#about {
+	color: #fff;
+}
+
+.links h2 {
+	color: #ff572b;
+}
+
+.stacked {
+	padding: 10px;
+}
+
+.contact {
+	text-align: center;
+	color: #fff;
+	background: url(images/dark_embroidery.png);
+}
+
+.contact img {
+	width: 100px;
+	margin: 10px;
+	border-radius: 50%;
+	border: none;
+}
+
+.contact img:hover {
+	opacity: 0.5;
+}
+
+header {
+	background: url(https://scontent-iad3-1.xx.fbcdn.net/hphotos-xaf1/t31.0-8/11402652_10205881220366207_7597860449368008071_o.jpg);
+	background-size: cover; 
+	background-attachment: fixed;
+	padding: 100px;
+}
+
+header img {
+	border: 3px solid #fff;
+	border-radius: 50%;
+	padding: 10px;
+}
+
+ul.websites {
+	padding: 0;
+}
+
+ul.websites li {
+	list-style: none;
+	display: inline-block;
+}
+
+.websites a {
+	background:#F58220;
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 5px;
+	font-size: 24px; 
+	display: block;
+}
+
+.websites a:hover {
+	background:#666;
+}
+
+p, ul, ol {
+	line-height: 1.5;
+}
+
+ul.websites li {
+	margin-bottom: 5px;
+}
